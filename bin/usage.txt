@@ -1,0 +1,13 @@
+usage: glsl-proj4-texture
+
+Write a binary coordinate texture to stdout.
+
+  --size    texture width and height in pixels. default: 128
+  --src     proj4 source string
+  --dst     proj4 destination string
+
+  -w --west   default: -180
+  -s --south  default: -90
+  -e --east   default: +180
+  -n --north  default: +90
+
