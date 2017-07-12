@@ -1,6 +1,7 @@
 {
   "name": "glsl-proj4-texture",
   "version": "1.0.0",
+  "description": "pre-calculate proj4 coordinate transformations as a texture",
   "bin": {
     "glsl-proj4-texture": "bin/cmd.js"
   },
